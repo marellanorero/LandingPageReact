@@ -3,7 +3,7 @@ import React from 'react';
 function Card (){
     return(
         
-            <div className="card ">
+            <div className="card mb-5">
                 <img className="card-img-top" src="https://via.placeholder.com/500x325" alt="Card image cap"/>
                 <div className="card-body">
                     <h5 className="card-title">Card title</h5>
